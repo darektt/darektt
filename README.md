@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-# Hi there, I'm Darekt! 👋
+Hi there, I'm Darekt! 👋
 
 I am a 21-year-old student  with a deep interest in the intersection of human cognition and technology.
 
@@ -17,4 +17,4 @@ When I'm not studying or coding, you'll likely find me at the **poker** table, w
 
 ---
 *“I am a memory come alive...” — Franz Kafka*-
-**darektt/darektt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
