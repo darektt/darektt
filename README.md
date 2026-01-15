@@ -1,8 +1,8 @@
-## Hi there 👋
+## Who am I
 
-Hi there, I'm Darekt! 👋
+Hi there, I'm Darekt!👋
 
-I am a 21-year-old student  with a deep interest in the intersection of human cognition and technology.
+I am a 21-year-old student  with a deep interest in the intersection of human cognition and technology, with also interest in morals and ethic.
 
 ### 🧠 Psychology & Philosophy
 I am currently studying **Psychology**, a field I am deeply passionate about. My curiosity for the human mind is mirrored in my reading habits: I am a big fan of **Franz Kafka** and **classical literature** in general, and I have a strong interest in **Philosophy**.
